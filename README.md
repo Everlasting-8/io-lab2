@@ -7,7 +7,7 @@
 ## Описание функциональности драйвера
 
 ### Use this utility to format disk partitions, create virtual disks, and test data transmission speed
-## One 20MB primary partition and one extended partition containing three 10MB logical partitions.
+## Три первичных раздела с размерами 10Мбайт, 25Мбайт и 15Мбайт.
 ## Use
 
 ## Инструкция по сборке
